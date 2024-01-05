@@ -1,0 +1,4 @@
+google==3.0.0
+pdfminer.six==20231228
+numpy
+git+https://github.com/capnproto/pycapnp.git
